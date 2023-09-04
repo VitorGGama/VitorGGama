@@ -4,13 +4,12 @@
 
 🎓 Formado em Radio, TV e Internet pela Universidade Cruzeiro do Sul.
 
-👨‍💻 Atualmente, estou aprofundando meu conhecimento como desenvolvedor fullstack, me aprimorando nas linguagens e tecnologias que moldam a web moderna:
+👨‍💻 Atualmente, estou aprofundando meu conhecimento como desenvolvedor fullstack pelo Senac/SP, me aprimorando nas linguagens e tecnologias que moldam a web moderna:
 
 Front-End: HTML, CSS e JavaScript para criar interfaces incríveis e interativas;
-
 Back-End: PHP, MySQL e a gestão de bancos de dados para dar vida às aplicações;
-
 Versionamento: Git e GitHub para colaboração e controle de código-fonte;
+Além disso, possuo certificação em manutenção de microcomputadores pelo Senac, o que me permite ter um conhecimento abrangente tanto no desenvolvimento de software quanto na manutenção de hardware.
 
 💡 Sempre em busca de desafios e oportunidades para aprender e crescer.
 
