@@ -6,9 +6,12 @@
 
 👨‍💻 Atualmente, estou aprofundando meu conhecimento como desenvolvedor fullstack, me aprimorando nas linguagens e tecnologias que moldam a web moderna:
 
-Front-End: HTML, CSS e JavaScript para criar interfaces incríveis e interativas.
-Back-End: PHP, MySQL e a gestão de bancos de dados para dar vida às aplicações.
-Versionamento: Git e GitHub para colaboração e controle de código-fonte.
+Front-End: HTML, CSS e JavaScript para criar interfaces incríveis e interativas;
+
+Back-End: PHP, MySQL e a gestão de bancos de dados para dar vida às aplicações;
+
+Versionamento: Git e GitHub para colaboração e controle de código-fonte;
+
 💡 Sempre em busca de desafios e oportunidades para aprender e crescer.
 
 🌐 Conecte-se comigo e vamos colaborar em projetos incríveis!
