@@ -1,5 +1,19 @@
 # 💫 About Me:
-Como desenvolvedor, estou empolgado com as possibilidades e desafios que a área oferece, com formação em Rádio, TV e Internet pela Universidade Cruzeiro do Sul. Sou especializado em Desenvolvimento Front-End e estou me aprimorando no Back-End pelo Senac SP. Além disso, possuo conhecimentos em manutenção de microcomputadores também pelo Senac SP. Busca oportunidades para aplicar as minhas habilidades em projetos inovadores.<br><br>Habilidades:<br>- Desenvolvimento Front-End (HTML, CSS, JavaScript)<br>-Wordpress<br>- Desenvolvimento Back-End (em especialização ->PHP)<br>- Manutenção de Microcomputadores<br><br>Contato:<br>- E-mail: vitorggam@hotmail.com<br>- LinkedIn: linkedin.com/in/vitor-gama/<br><br><br>#DesenvolvedorWeb #FrontEnd #BackEnd #Tecnologia #GitHub
+
+👋 Olá! Eu sou Vitor Gama.
+
+🎓 Formado em Radio, TV e Internet pela Universidade Cruzeiro do Sul.
+
+👨‍💻 Atualmente, estou aprofundando meu conhecimento como desenvolvedor fullstack, me aprimorando nas linguagens e tecnologias que moldam a web moderna:
+
+Front-End: HTML, CSS e JavaScript para criar interfaces incríveis e interativas.
+Back-End: PHP, MySQL e a gestão de bancos de dados para dar vida às aplicações.
+Versionamento: Git e GitHub para colaboração e controle de código-fonte.
+💡 Sempre em busca de desafios e oportunidades para aprender e crescer.
+
+🌐 Conecte-se comigo e vamos colaborar em projetos incríveis!
+
+E-mail: vitorggam@hotmail.com<br>- LinkedIn: linkedin.com/in/vitor-gama/<br><br><br>#DesenvolvedorWeb #FrontEnd #BackEnd #Tecnologia #GitHub
 
 
 ## 🌐 Socials:
