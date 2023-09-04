@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 
 👋 Olá! Eu sou Vitor Gama.
 
