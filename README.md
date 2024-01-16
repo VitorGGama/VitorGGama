@@ -1,5 +1,3 @@
-# 💫 Sobre mim:
-
 👋 Olá! Eu sou Vitor Gama.
 
 🎓 Formado em Radio, TV e Internet pela Universidade Cruzeiro do Sul.
@@ -10,14 +8,19 @@ Front-End: HTML, CSS e JavaScript para criar interfaces incríveis e interativas
 
 Back-End: PHP, MySQL e a gestão de bancos de dados para dar vida às aplicações;
 
+Mobile: Atualmente, estou me especializando em desenvolvimento mobile, complementando minhas qualificações técnicas.
+
+Cursando: Análise e Desenvolvimento de Sistemas na UNICSUL.
+
+Concluído: Qualificação técnica em Front-End e Back-End pelo Senac, agregando conhecimentos sólidos em ambas as áreas.
+
 Versionamento: Git e GitHub para colaboração e controle de código-fonte;
 
-Além disso, possuo certificação em manutenção de microcomputadores pelo Senac, o que me permite ter um conhecimento abrangente tanto no desenvolvimento de software quanto na manutenção de hardware.
+Certificado: Possuo certificação em manutenção de microcomputadores pelo Senac, o que me permite ter um conhecimento abrangente tanto no desenvolvimento de software quanto na manutenção de hardware.
 
 💡 Sempre em busca de desafios e oportunidades para aprender e crescer.
 
 🌐 Conecte-se comigo e vamos colaborar em projetos incríveis!
-
 E-mail: vitorggam@hotmail.com<br>- LinkedIn: linkedin.com/in/vitor-gama/<br><br><br>#DesenvolvedorWeb #FrontEnd #BackEnd #Tecnologia #GitHub
 
 
